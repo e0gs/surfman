@@ -2,7 +2,7 @@
 name = "surfman"
 license = "MIT / Apache-2.0"
 edition = "2018"
-version = "0.2.0"
+version = "0.3.0"
 authors = [
     "Patrick Walton <pcwalton@mimiga.net>",
     "Emilio Cobos Álvarez <emilio@crisal.io>",
@@ -44,7 +44,7 @@ version = "0.1"
 optional = true
 
 [dependencies.winit]
-version = "0.22.1"
+version = "0.23"
 optional = true
 
 [dependencies.raw-window-handle]
